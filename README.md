@@ -1,6 +1,8 @@
 ## Hi there, I'm Guillem! 👋
 
-Software Engineer focused on Web Development, Microservices, and Cybersecurity.
+For years I shipped it — from Java developer to full-stack, then Cloud & DevOps — before moving into where I always wanted to be: Security. That path is my edge. I don't just flag vulnerabilities; I understand the code, the pipeline and the infrastructure behind them, and help teams fix them without slowing delivery down.
+
+Currently a Security Analyst / DevSecOps, moving toward Security Engineering and Incident Response. Ethical hacking is what got me into this — and it's still the part I love most.
 
 ### 🔐 AppSec Labs
 
