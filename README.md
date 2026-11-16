@@ -57,7 +57,7 @@ Keeping an eye on everything with [Prometheus](https://prometheus.io/), [Grafana
 
 Still learning, still hacking, still shipping. The best vulnerability is the one you never deploy.
 
-That's the loop I live in, and I'm pushing it further — toward [Security Engineering](https://www.huntress.com/cybersecurity-101/topic/role-of-security-engineer) and [Incident Response](https://www.offsec.com/cyberversity/incident-response/), with a growing interest in [Agentic Development](https://www.anthropic.com/engineering/building-effective-agents) and spec-driven workflows.
+That's the loop I live in, and I'm pushing it further — toward [Security Engineering](https://www.huntress.com/cybersecurity-101/topic/role-of-security-engineer) and [Incident Response](https://www.offsec.com/cyberversity/incident-response/), with a growing interest in [Agentic Development](https://opencode.ai/) and [Spec-Driven Development](https://specdriven.ai/).
 
 Always happy to talk security, swap war stories, or team up on something fun. Reach out 👇
 
