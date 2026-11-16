@@ -15,5 +15,9 @@ hiding a specific vulnerability.
 
 ### 🛡️ DevSecOps
 
+I build full-stack apps as [Turborepo](https://turborepo.com/) monorepos, each shipping with a complete
+delivery pipeline — [GitHub Actions](https://github.com/features/actions),
+[Release Please](https://github.com/googleapis/release-please) for automated semantic
+versioning and [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow).
 
 📦 **[View projects](https://github.com/iv0ks/devsecops-projects)**
