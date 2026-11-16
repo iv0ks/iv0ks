@@ -1,20 +1,19 @@
 ## Hi there, I'm Guillem! 👋
 
-For years I shipped it — from **Java Developer** to **Full-Stack**, then **Cloud Engineer & DevOps** — before moving into where I always wanted to be: **Security**. That path is my edge. I don't just flag vulnerabilities; I understand the code, the pipeline and the infrastructure behind them, and help teams fix them without slowing delivery down.
+For years I shipped it — from [Java Developer](https://codeandpepper.com/blog/java-developer/) to [Full-Stack](https://www.coursera.org/articles/full-stack-developer), then [Cloud Engineer](https://www.udacity.com/topic/what-is-a-cloud-engineer) and [DevOps](https://www.redhat.com/en/topics/devops/what-is-devops) — before moving into where I always wanted to be: [Security](https://www.microsoft.com/en-us/security/business/security-101/what-is-cybersecurity). That path is my edge. I don't just flag vulnerabilities; I understand the code, the pipeline and the infrastructure behind them, and help teams fix them without slowing delivery down.
 
 Currently working as [Security Analyst](https://www.huntress.com/cybersecurity-101/topic/what-does-security-analyst-do) and [DevSecOps](https://www.huntress.com/cybersecurity-101/topic/what-is-devsecops-engineer), moving toward [Security Engineering](https://www.huntress.com/cybersecurity-101/topic/role-of-security-engineer) and [Incident Response](https://www.offsec.com/cyberversity/incident-response/). [Ethical hacking](https://www.offsec.com/blog/what-is-ethical-hacking/) is what got me into this — and it's still the part I love most.
 
 ### 👾 AppSec
 
-I build intentionally [vulnerable web apps](https://offensive360.com/blog/what-is-a-vulnerable-web-application/) to practice and teach web
+I build intentionally [vulnerable web apps](https://offensive360.com/blog/what-is-a-vulnerable-web-application/) to learn and practice web
 security — realistic, dockerized products with, each
-hiding a specific vulnerability (starting with path traversal, more on the way).
+hiding a specific vulnerability.
 
-👉 **[View all labs](https://github.com/iv0ks/appsec-labs)**
+🧪 **[View labs](https://github.com/iv0ks/appsec-labs)**
 
-</br>
 
 ### 🛡️ DevSecOps
 
 
-👉 **[View all projects](https://github.com/iv0ks/devsecops-labs)**
+📦 **[View projects](https://github.com/iv0ks/devsecops-projects)**
