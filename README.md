@@ -9,24 +9,6 @@ Currently working as [Security Analyst](https://www.huntress.com/cybersecurity-1
 
 <br>
 
-### 👾 AppSec
-
-![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2E3B?style=flat&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat&logo=zap&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-I build intentionally [Vulnerable Web Apps](https://offensive360.com/blog/what-is-a-vulnerable-web-application/) to learn and practice web security — realistic, dockerized products, each hiding a specific flaw from the [OWASP Top 10](https://owasp.org/www-project-top-ten/).
-
-Each lab is meant to be broken and then fixed: I attack it with [Burp Suite](https://portswigger.net/burp), [OWASP ZAP](https://www.zaproxy.org/) and [Nmap](https://nmap.org/), then wire the findings back into the pipeline so the vulnerability can't sneak back in.
-
-🧪 **[View labs](https://github.com/iv0ks/appsec-labs)**
-
-<br>
-
 ### 🛡️ DevSecOps
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -50,6 +32,24 @@ Mostly working with [TypeScript](https://www.typescriptlang.org/), [Node.js](htt
 Keeping an eye on everything with [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/) and [OpenTelemetry](https://opentelemetry.io/).
 
 📦 **[View projects](https://github.com/iv0ks/devsecops-projects)**
+
+<br>
+
+### 👾 AppSec
+
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2E3B?style=flat&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat&logo=zap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+I build intentionally [Vulnerable Web Apps](https://offensive360.com/blog/what-is-a-vulnerable-web-application/) to learn and practice web security — realistic, dockerized products, each hiding a specific flaw from the [OWASP Top 10](https://owasp.org/www-project-top-ten/).
+
+Each lab is meant to be broken and then fixed: I attack it with [Burp Suite](https://portswigger.net/burp), [OWASP ZAP](https://www.zaproxy.org/) and [Nmap](https://nmap.org/), then wire the findings back into the pipeline so the vulnerability can't sneak back in.
+
+🧪 **[View labs](https://github.com/iv0ks/appsec-labs)**
 
 <br>
 
