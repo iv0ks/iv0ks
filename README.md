@@ -51,3 +51,16 @@ Keeping an eye on everything with [Prometheus](https://prometheus.io/), [Grafana
 
 📦 **[View projects](https://github.com/iv0ks/devsecops-projects)**
 
+<br>
+
+### 🤝 Let's connect
+
+Still learning, still hacking, still shipping. The best vulnerability is the one you never deploy.
+
+That's the loop I live in, and I'm pushing it further — toward [Security Engineering](https://www.huntress.com/cybersecurity-101/topic/role-of-security-engineer) and [Incident Response](https://www.offsec.com/cyberversity/incident-response/), with a growing interest in [Agentic Development](https://www.anthropic.com/engineering/building-effective-agents) and spec-driven workflows.
+
+Always happy to talk security, swap war stories, or team up on something fun. Reach out 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gucasassi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/iv0ks)
+
