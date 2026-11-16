@@ -19,7 +19,7 @@ Currently working as [Security Analyst](https://www.huntress.com/cybersecurity-1
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat&logo=zap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-I build intentionally [vulnerable web apps](https://offensive360.com/blog/what-is-a-vulnerable-web-application/) to learn and teach web security — realistic, dockerized products, each hiding a specific flaw from the [OWASP Top 10](https://owasp.org/www-project-top-ten/).
+I build intentionally [Vulnerable Web Apps](https://offensive360.com/blog/what-is-a-vulnerable-web-application/) to learn and teach web security — realistic, dockerized products, each hiding a specific flaw from the [OWASP Top 10](https://owasp.org/www-project-top-ten/).
 
 Each lab is meant to be broken and then fixed: I attack it with [Burp Suite](https://portswigger.net/burp), [OWASP ZAP](https://www.zaproxy.org/) and [Nmap](https://nmap.org/), then wire the findings back into the pipeline so the vulnerability can't sneak back in.
 
