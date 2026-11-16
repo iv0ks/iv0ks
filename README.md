@@ -45,7 +45,9 @@ delivery pipeline — [GitHub Actions](https://github.com/features/actions),
 [Release Please](https://github.com/googleapis/release-please) for automated semantic
 versioning and [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow). 
 
-Mostly working with [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/) / [NestJS](https://nestjs.com/) and [React](https://react.dev/) on the app side, [AWS](https://aws.amazon.com/), [Terraform](https://www.terraform.io/) and [Kubernetes](https://kubernetes.io/) on the infra side, wired together with a DevSecOps toolchain ([SonarQube](https://www.sonarsource.com/products/sonarqube/), [Trivy](https://trivy.dev/), [Snyk](https://snyk.io/), [Semgrep](https://semgrep.dev/)). Keeping an eye on everything with [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/) and [OpenTelemetry](https://opentelemetry.io/).
+Mostly working with [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/) / [NestJS](https://nestjs.com/) and [React](https://react.dev/) on the app side, [AWS](https://aws.amazon.com/), [Terraform](https://www.terraform.io/) and [Kubernetes](https://kubernetes.io/) on the infra side, wired together with a DevSecOps toolchain ([SonarQube](https://www.sonarsource.com/products/sonarqube/), [Trivy](https://trivy.dev/), [Snyk](https://snyk.io/), [Semgrep](https://semgrep.dev/), [OWASP ZAP](https://www.zaproxy.org/)).
+
+Keeping an eye on everything with [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/) and [OpenTelemetry](https://opentelemetry.io/).
 
 📦 **[View projects](https://github.com/iv0ks/devsecops-projects)**
 
